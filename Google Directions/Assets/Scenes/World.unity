@@ -787,6 +787,7 @@ GameObject:
   - component: {fileID: 904400729}
   - component: {fileID: 904400728}
   - component: {fileID: 904400727}
+  - component: {fileID: 904400731}
   m_Layer: 0
   m_Name: Earth
   m_TagString: Untagged
@@ -866,6 +867,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &904400731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 904400726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51b80eb9e818bd4489fd934ea4b35f81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointMaterial: {fileID: 2100000, guid: 1c9e6c51bdf92ab41a282a71e3ac4005, type: 2}
 --- !u!1 &1075022173
 GameObject:
   m_ObjectHideFlags: 3
