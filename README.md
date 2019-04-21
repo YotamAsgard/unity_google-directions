@@ -16,3 +16,5 @@ Demo code for reading from and plotting information returned by the Google Direc
  - Load project into Unity (created in 2018.3)
  - Run
  - The "Google Directions API" game object parameters can be modified to plot different directions
+
+![Game and Properties](https://raw.githubusercontent.com/PhillipRC/unity_google-directions/master/screenshots/game.jpg?token=ABHI76K2YPVQOUZA5TXEGNK4YW4BQ)
