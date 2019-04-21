@@ -28,7 +28,7 @@ public class GoogleDirectionsSpherePlot : MonoBehaviour
 
     }
 
-    public void addPoint(GoogleDirections directions)
+    public void addDirections(GoogleDirections directions)
     {
         
         // loop over steps
